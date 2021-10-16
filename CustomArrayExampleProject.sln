@@ -1,0 +1,16 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CustomArrayExampleProject", "CustomArrayExampleProject\CustomArrayExampleProject.csproj", "{C9F7A796-96C2-46A9-B11D-16D0C5695ABB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C9F7A796-96C2-46A9-B11D-16D0C5695ABB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C9F7A796-96C2-46A9-B11D-16D0C5695ABB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C9F7A796-96C2-46A9-B11D-16D0C5695ABB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C9F7A796-96C2-46A9-B11D-16D0C5695ABB}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
